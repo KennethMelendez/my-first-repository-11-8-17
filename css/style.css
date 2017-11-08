@@ -1,0 +1,25 @@
+* {
+  box-sizing:border-box;
+  margin:0;
+  padding: 0;
+}
+
+html {
+
+}
+
+
+.box {
+  margin:10px auto;
+  width:100px;
+  height:100px;
+  background:red;
+  text-align: center;
+  padding:1px;
+  color:white;
+  font-family: helvetica;
+}
+
+.box:hover {
+  background:pink;
+}
