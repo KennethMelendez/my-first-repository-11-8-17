@@ -31,3 +31,9 @@
 .main-nav-list li {
   margin: 0 30px;
 }
+
+.banner{
+  text-align: center;
+  padding:2rem 0;
+  background:lightblue;
+}
